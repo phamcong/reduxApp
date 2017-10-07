@@ -18,5 +18,10 @@ module.exports = {
         }
       }
     ]
+  },
+  resolve: {
+      alias: {
+          "react": __dirname + "/node_modules/react"
+      }
   }
 }
