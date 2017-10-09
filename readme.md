@@ -8,4 +8,4 @@
 
 #### Universal App
 + Install ejs package in dependencies: `npm i --save ejs`
-
++ Create initialState: initialState: `initialState = JSON.stringify(store.getState()).replace(/<\/script/g, '<\\/script').replace(/<!--/g,'<\\!--');`
