@@ -5,3 +5,7 @@
     - Move to app folder: `nodemon`
     - Open another terminal window in app folder: `webpack`
     - Move to mongodb folder: `./mongod --dbpath ~/mongo/dbs`
+
+#### Universal App
++ Install ejs package in dependencies: `npm i --save ejs`
+
